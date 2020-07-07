@@ -6,4 +6,6 @@ The environment used is the Cliff walking environment.
 Cliff walking environment has reward -1 to reach the destination and all the other times the reward received is -100.
 # Results:
 Here initially the agent struggles to find optimal path but after 100 episodes it figures it out and thus rewards received is -1.
+![alt-text](https://github.com/aveen-d/A2C_Cartpole/blob/master/results/results.png)
 In the below graph we can see the length of episode (or time taken for the agent to find path in 1 episode). After 100 episodes it found the optimal path and thus time taken is also less.
+![alt-text](https://github.com/aveen-d/A2C_Cartpole/blob/master/results/results2.png)
